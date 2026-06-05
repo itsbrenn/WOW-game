@@ -8,3 +8,15 @@ Tank
 7
 83
 0
+
+
+Frostborn Sentinel
+Ice
+Tank
+3
+56
+-9
+7
+11
+45
+2
